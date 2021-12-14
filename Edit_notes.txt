@@ -1,4 +1,4 @@
-Version 2
+Version 2 (in processing)
   Added input checks to prevent people from adding negative numbers
   Added weekly check
   Refined savings account feature to be working without choosing the option
